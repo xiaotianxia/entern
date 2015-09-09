@@ -6,4 +6,4 @@
 * click与tap
 * tap的坑
 
-http://note.youdao.com/share/?id=9af8c3f8693e185083a3dc26c3d67028&type=note
+http://xiaotianxia.github.io/entern
